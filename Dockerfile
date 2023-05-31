@@ -1,1 +1,1 @@
-listmonk/listmonk:latest
+FROM listmonk/listmonk:latest
